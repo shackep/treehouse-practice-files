@@ -4,8 +4,8 @@ $products[101] = "Log Shirt, Red";
 $products[102] = "Mike the Frog Shirt, Black";
 $products[103] = "Mike the Frog Shirt, Blue";
 $products[104] = "Logo Shirt, Green";
-
-?><?php 
+Here we have some text that does not belong!
+?><?php
 $pageTitle = "Mike's Full Catalog of Shirts";
 $section = "shirts";
 include('inc/header.php'); ?>
