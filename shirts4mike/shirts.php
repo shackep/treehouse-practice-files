@@ -1,9 +1,9 @@
 <?php
 $products = array();
-$products[] = "Log Shirt, Red";
-$products[] = "Mike the Frog Shirt, Black";
-$products[] = "Mike the Frog Shirt, Blue";
-$products[] = "Logo Shirt, Green";
+$products[101] = "Log Shirt, Red";
+$products[102] = "Mike the Frog Shirt, Black";
+$products[103] = "Mike the Frog Shirt, Blue";
+$products[104] = "Logo Shirt, Green";
 
 ?><?php 
 $pageTitle = "Mike's Full Catalog of Shirts";
